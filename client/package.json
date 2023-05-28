@@ -1,7 +1,6 @@
 {
   "name": "mern-client",
-  "version": "0.1.0",
-  "homepage": "https://pure-coast-69873.herokuapp.com/",
+  "version": "0.1.0",  
   "private": true,
   "dependencies": {
     "@apollo/client": "^3.5.8",
